@@ -1,0 +1,11 @@
+NOME,DESCRICAO: literal
+FREAQMIN, MEDIAMIN: numérico 
+leia "Digite o nome da disciplina:", NOME 
+leia "Digite uma descrição sobre a disciplina:", 
+DESCRICAO 
+leia "Digite a frequência mínima para aprovação na disciplina:",FREQMIN
+leia "Digite a média mínima para aprovação na disciplina:",MEDIAMIN 
+escreva "nome da disciplina:", NOME
+escreva "descrição:" DESCRICAO 
+escreva "frequência mínima para aprovação:" FREQMIN 
+escreva "média mínima para aprovação:" MEDIAMIN 
